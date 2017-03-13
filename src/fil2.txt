@@ -1,7 +1,10 @@
 og dette er
 en
-annen fil med litt 
+annen fil med litt
 annet innhold
 llalalalallalalalala
 Diff testing!
 ny commit
+annet innhold
+og en endring
+n endring
