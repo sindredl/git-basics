@@ -10,5 +10,9 @@ og en endring
 n endring
 annen fil med litt 
 annet innhold
+<<<<<<< HEAD
 og en endring
 En endring
+=======
+og en endring
+>>>>>>> 43891b3... En endring
