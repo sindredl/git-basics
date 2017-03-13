@@ -8,3 +8,7 @@ ny commit
 annet innhold
 og en endring
 n endring
+annen fil med litt 
+annet innhold
+og en endring
+En endring
