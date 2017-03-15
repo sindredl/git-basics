@@ -5,3 +5,6 @@ del linjer
 og innhold
 
 Hehehehehehhe 
+
+
+Feature-edit
