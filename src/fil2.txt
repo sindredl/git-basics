@@ -2,6 +2,6 @@ og dette er
 en
 annen fil med litt 
 annet innhold
-
-
 llalalalallalalalala
+Diff testing!
+ny commit
